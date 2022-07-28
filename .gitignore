@@ -1,7 +1,9 @@
 # Byte-compiled / optimized / DLL files
+tensorflow_course/cats_and_dogs_filtered
 __pycache__/
 *.py[cod]
 *$py.class
+*.ipynb_checkpoints
 
 # C extensions
 *.so
